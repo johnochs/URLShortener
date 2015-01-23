@@ -3,3 +3,5 @@
 A very basic version of a url shortener, mainly created to explore Rails' Active Record associations.
 
 *Active Record associations are explicitly declared instead of using Rails magic (including primary & foreign keys, association name and associated class).
+
+*Uses basic sqlite3 db.
